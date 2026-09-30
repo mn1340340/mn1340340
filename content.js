@@ -1,19 +1,3 @@
-/* EDIT YOUR PORTFOLIO HERE.
- * On Windows: right-click this file > Open with > Notepad or VS Code.
- * Do not double-click to run it. Double-click index.html to view the website.
- *
- * profile: introduction, contact details, interests, and PEY dates
- * timeline: experience and education, in the order shown
- * Each timeline entry has a panel: heading, subheading, paragraphs, highlights, photos, and links.
- * Edit panel.heading and panel.subheading to change the popup title and subtitle.
- * Add any number of images to panel.photos. See the popup example in README.md.
- * projects / publications: content on their respective pages
- * photos: images on the Photos page
- *
- * For any photo list, add entries in this format:
- * { "src": "assets/photos/board.jpg", "alt": "Receiver PCB", "caption": "Hardware validation" }
- * Keep the commas and quotation marks when editing. See README.md.
- */
 window.PORTFOLIO = {
   "profile": {
     "name": "Melissa Ning",
@@ -24,7 +8,7 @@ window.PORTFOLIO = {
 
     "portrait": "assets/melissa.jpg",
     "introduction": "I’m an electrical engineering student at the University of Toronto, working on mixed-signal hardware, embedded systems, and wireless power.",
-    "about": "I'm interested in applying my experience in circuit design, PCB development and hardware validation for ",
+    "about": "I'm interested in applying my experience in meaningful, advanced projects in fast-paced environments. I am especially interested in the boundary between engineering and biological systems.",
     "availability": "Seeking a PEY co-op",
     "availabilityDates": "June 2027 – September 2028",
     "skills": [
@@ -32,7 +16,8 @@ window.PORTFOLIO = {
       "Embedded systems",
       "Wireless power",
       "PCB design",
-      "Power electronics"
+      "Power electronics",
+      "Neuroelectronics",
     ]
   },
   "timeline": [
@@ -169,11 +154,11 @@ window.PORTFOLIO = {
           "Performed hardware bring-up, debugging, and validation with mixed-signal oscilloscopes and vector network analyzers.",
           "Integrated microcontrollers and sensors through SWD, I2C, and UART, and developed a Python GUI for device control and live monitoring.",
           "Contributed hardware design and results to an IEEE 2027 conference submission; co-authoring a paper on programmable near-fields for joint power and sensing.",
-          "Photos and more information coming soon, currently confidential."
+          "Photos and more information coming soon."
 
         ],
         "tags": [
-          "13.56 MHz",
+          "End-to-end development",
           "Wireless power",
           "STM32",
           "Altium",
