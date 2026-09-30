@@ -201,9 +201,9 @@ window.PORTFOLIO = {
       "date": "Jun 2027 – Sep 2028",
       "title": "PEY Co-op",
       "organization": "Seeking a placement",
-      "status": "Seeking oppurtunities",
+      "status": "",
       "future": true,
-      "description": "Seeking a co-op in analog or mixed-signal electronics, embedded systems, RF, or research-driven hardware.",
+      "description": "Looking for opportunities in analog or mixed-signal electronics, embedded systems, RF, or research-driven hardware.",
       "panel": {
         "buttonLabel": "View details",
         "heading": "PEY Co-op",
