@@ -446,32 +446,32 @@ window.PORTFOLIO = {
   ],
   "photos": [
     {
-      "src": "assets/photos/nb_cityhall.jpg",
+      "src": "assets/photos/nb_cityhall.jpeg",
       "alt": "",
       "caption": "Toronto City Hall, Nuit Blanche 2026"
     },
     {
-      "src": "assets/photos/nb_harbourfront.jpg",
+      "src": "assets/photos/nb_harbourfront.jpeg",
       "alt": "",
       "caption": "HTO Park, Nuit Blanche 2026"
     },
     {
-      "src": "assets/photos/nb_union.jpg",
+      "src": "assets/photos/nb_union.jpeg",
       "alt": "",
       "caption": "Union Station, Toronto"
     },
     {
-      "src": "assets/photos/nb_vintagecar.jpg",
+      "src": "assets/photos/nb_vintagecar.jpeg",
       "alt": "",
       "caption": "Yonge-Dundas, Toronto"
     },
     {
-      "src": "assets/photos/nb_everythingnothing.jpg",
+      "src": "assets/photos/nb_everythingnothing.jpeg",
       "alt": "",
       "caption": "Old City Hall, Nuit Blanche 2026"
     },
     {
-      "src": "assets/photos/nb_installation.jpg",
+      "src": "assets/photos/nb_installation.jpeg",
       "alt": "",
       "caption": "Old City Hall, Nuit Blanche 2026"
     },
