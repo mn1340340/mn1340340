@@ -446,6 +446,36 @@ window.PORTFOLIO = {
   ],
   "photos": [
     {
+      "src": "assets/photos/nb_cityhall.jpg",
+      "alt": "",
+      "caption": "Toronto City Hall, Nuit Blanche 2026"
+    },
+    {
+      "src": "assets/photos/nb_harbourfront.jpg",
+      "alt": "",
+      "caption": "HTO Park, Nuit Blanche 2026"
+    },
+    {
+      "src": "assets/photos/nb_union.jpg",
+      "alt": "",
+      "caption": "Union Station, Toronto"
+    },
+    {
+      "src": "assets/photos/nb_vintagecar.jpg",
+      "alt": "",
+      "caption": "Yonge-Dundas, Toronto"
+    },
+    {
+      "src": "assets/photos/nb_everythingnothing.jpg",
+      "alt": "",
+      "caption": "Old City Hall, Nuit Blanche 2026"
+    },
+    {
+      "src": "assets/photos/nb_installation.jpg",
+      "alt": "",
+      "caption": "Old City Hall, Nuit Blanche 2026"
+    },
+    {
       "src": "assets/photos/pemi.jpg",
       "alt": "",
       "caption": "Pemi Loop, New Hampshire, US"
