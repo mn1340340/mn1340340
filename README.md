@@ -1,5 +1,5 @@
 ## Hi I'm Melissa!
-I work on wireless power transfer, and also joint power and sensing projects at UofT. Particularly interested in neuroelectronics and biomedical devices. This is my website!
+I work on wireless power transfer, and also joint power and sensing projects at UofT. Particularly interested in hardware design, PCB. This is my website!
 <!--
 **mn1340340/mn1340340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
