@@ -8,7 +8,7 @@ window.PORTFOLIO = {
 
     "portrait": "assets/melissa.jpg",
     "introduction": "I’m an electrical engineering student at the University of Toronto, working on mixed-signal hardware, embedded systems, and wireless power.",
-    "about": "I'm interested in applying my experience in meaningful, advanced projects in fast-paced environments. I am especially interested in the boundary between engineering and biological systems.",
+    "about": "I'm interested in applying my experience in meaningful, advanced projects in fast-paced environments. I am especially interested in power electronics in biomedical applications and sustainable energy.",
     "availability": "Seeking a PEY co-op",
     "availabilityDates": "June 2027 – September 2028",
     "skills": [
